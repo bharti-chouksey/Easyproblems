@@ -1,3 +1,4 @@
+package LeetCode;
 import java.util.*;   
 class Main {
 //    public int lengthOfLongestSubstring(String s) {
